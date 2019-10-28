@@ -1,0 +1,24 @@
+// Q1 
+git clone
+
+// Q2
+git status
+
+// Q3
+del *.json
+
+// Q4
+rm -rf config
+
+// Q6
+git remote
+
+// Q7
+I use the "ren" command to change the directory name.
+
+// Q8
+cd ..
+
+// Q9
+
+cd ../../public
